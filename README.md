@@ -1,4 +1,4 @@
-# IEEE_Bilkent_Robotics_and_Automation_Lectures
+# IEEE-Bilkent-Robotics-and-Automation-Lectures
 All materials in this repository are prepared by Oguz Altan.
 
 This repository contains resources for the four weeks long Introduction to Arduino and Fundamentals of Eletronics course that I have given voluntarily and free of charge to around 100 students in the semester 2018-2019. As the coordinator of the Robotics & Automation Society of IEEE Bilkent Student Branch, I have given various courses on electronics and computer science to university students. 
